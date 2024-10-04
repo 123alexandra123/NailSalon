@@ -1,0 +1,6 @@
+NUME,PRENUME,ZIUA,LUNA,ANUL,ORA_INCEPUT,ORA_FINAL,SERVICIU
+Sandu,Aida,12,12,2024,10:21,12:21,Manichiura cu gel,150,120
+Sandu,Aida,3,4,2024,16:24,18:24,Manichiura cu gel,150,120
+Sandu,Aida,5,6,2024,13:45,15:45,Manichiura Semi,100,120
+Sandu,Aida,12,5,2024,14:30,15:30,Pedichiura,50,60
+Sandu,Aida,12,5,2024,10:00,11:00,Pedichiura,50,60

@@ -1,0 +1,202 @@
+# depslib dependency file v1.0
+1716331917 source:c:\users\satal\onedrive\desktop\salon unghii\main.cpp
+	"salon.h"
+	"oferte.h"
+	"programari.h"
+	<iostream>
+
+1716331761 c:\users\satal\onedrive\desktop\salon unghii\salon.h
+	<iostream>
+	<string>
+
+1716343080 source:c:\users\satal\onedrive\desktop\salon unghii\salon.cpp
+	"salon.h"
+	"oferte.h"
+	"programari.h"
+	<iostream>
+	<cstdlib>
+
+1716343161 source:c:\users\satal\onedrive\desktop\salon unghii\oferte.cpp
+	"oferte.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1716342866 c:\users\satal\onedrive\desktop\salon unghii\oferte.h
+	<string>
+	<vector>
+
+1716341054 source:c:\users\satal\onedrive\desktop\salon unghii\programari.cpp
+	"programari.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1716339720 c:\users\satal\onedrive\desktop\salon unghii\programari.h
+	<string>
+	<vector>
+
+1716331918 source:c:\users\aida\downloads\salon unghii\salon unghii\main.cpp
+	"salon.h"
+	"oferte.h"
+	"programari.h"
+	<iostream>
+
+1716331762 c:\users\aida\downloads\salon unghii\salon unghii\salon.h
+	<iostream>
+	<string>
+
+1716342868 c:\users\aida\downloads\salon unghii\salon unghii\oferte.h
+	<string>
+	<vector>
+
+1717348211 c:\users\aida\downloads\salon unghii\salon unghii\programari.h
+	<string>
+	<vector>
+	<algorithm>
+	<cctype>
+
+1716343162 source:c:\users\aida\downloads\salon unghii\salon unghii\oferte.cpp
+	"oferte.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1717348594 source:c:\users\aida\downloads\salon unghii\salon unghii\programari.cpp
+	"programari.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1717346864 source:c:\users\aida\downloads\salon unghii\salon unghii\salon.cpp
+	"salon.h"
+	"oferte.h"
+	"programari.h"
+	<iostream>
+	<cstdlib>
+
+1716331918 source:c:\users\aida\downloads\salon unghii\salon unghii2\salon unghii\main.cpp
+	"salon.h"
+	"oferte.h"
+	"programari.h"
+	<iostream>
+
+1719493803 c:\users\aida\downloads\salon unghii\salon unghii2\salon unghii\salon.h
+	<iostream>
+	<string>
+
+1719496591 c:\users\aida\downloads\salon unghii\salon unghii2\salon unghii\oferte.h
+	<string>
+	<vector>
+
+1719494917 c:\users\aida\downloads\salon unghii\salon unghii2\salon unghii\programari.h
+	<string>
+	<vector>
+	<algorithm>
+	<cctype>
+	"oferte.h"
+
+1719497119 source:c:\users\aida\downloads\salon unghii\salon unghii2\salon unghii\oferte.cpp
+	"oferte.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1719497989 source:c:\users\aida\downloads\salon unghii\salon unghii2\salon unghii\programari.cpp
+	"programari.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	"oferte.h"
+
+1717346866 source:c:\users\aida\downloads\salon unghii\salon unghii2\salon unghii\salon.cpp
+	"salon.h"
+	"oferte.h"
+	"programari.h"
+	<iostream>
+	<cstdlib>
+
+1719580788 source:c:\users\aida\downloads\salon unghii\salon unghii-varianta finala\main.cpp
+	"salon.h"
+	"oferte.h"
+	"programari.h"
+	<iostream>
+
+1719493803 c:\users\aida\downloads\salon unghii\salon unghii-varianta finala\salon.h
+	<iostream>
+	<string>
+
+1719580788 c:\users\aida\downloads\salon unghii\salon unghii-varianta finala\oferte.h
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1719580709 c:\users\aida\downloads\salon unghii\salon unghii-varianta finala\programari.h
+	<string>
+	<vector>
+	<algorithm>
+	<cctype>
+	<fstream>
+	<sstream>
+	<iostream>
+	<iomanip>
+	"oferte.h"
+
+1719580788 source:c:\users\aida\downloads\salon unghii\salon unghii-varianta finala\oferte.cpp
+	"oferte.h"
+
+1719643284 source:c:\users\aida\downloads\salon unghii\salon unghii-varianta finala\programari.cpp
+	"programari.h"
+	"oferte.h"
+
+1717346866 source:c:\users\aida\downloads\salon unghii\salon unghii-varianta finala\salon.cpp
+	"salon.h"
+	"oferte.h"
+	"programari.h"
+	<iostream>
+	<cstdlib>
+
+1728057337 source:c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\nailsalon\main.cpp
+	"salon.h"
+	"oferte.h"
+	"programari.h"
+	<iostream>
+
+1728057338 c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\nailsalon\salon.h
+	<iostream>
+	<string>
+
+1728057337 c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\nailsalon\oferte.h
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1728057337 c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\nailsalon\programari.h
+	<string>
+	<vector>
+	<algorithm>
+	<cctype>
+	<fstream>
+	<sstream>
+	<iostream>
+	<iomanip>
+	"oferte.h"
+
+1728057337 source:c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\nailsalon\oferte.cpp
+	"oferte.h"
+
+1728057337 source:c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\nailsalon\programari.cpp
+	"programari.h"
+	"oferte.h"
+
+1728057337 source:c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\nailsalon\salon.cpp
+	"salon.h"
+	"oferte.h"
+	"programari.h"
+	<iostream>
+	<cstdlib>
+
